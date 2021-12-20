@@ -1,0 +1,19 @@
+{
+
+  "description": "Edits cards images",
+  "manifest_version": 2,
+  "name": "Card editer for undercards",
+  "version": "1.0",
+  "homepage_url": "example.com",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.undercards.net/*"],
+      "js": ["code.js"]
+    }
+  ]
+
+}
