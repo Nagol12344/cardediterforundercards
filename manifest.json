@@ -4,16 +4,26 @@
   "manifest_version": 2,
   "name": "Card editer for undercards",
   "version": "1.0",
-  "homepage_url": "example.com",
+  "homepage_url": "https://github.com/Nagol12344/cardediterforundercards",
   "icons": {
     "48": "icons/border-48.png"
   },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "UNDERCARDSCARDEDITER@nagol12344.me"
+    }
+  },
+
 
   "content_scripts": [
     {
       "matches": ["*://*.undercards.net/*"],
       "js": ["code.js"]
     }
+
+  
   ]
 
 }
+
