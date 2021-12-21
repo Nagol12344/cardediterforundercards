@@ -8,22 +8,21 @@
   "icons": {
     "48": "icons/border-48.png"
   },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+
 
   "browser_specific_settings": {
     "gecko": {
       "id": "UNDERCARDSCARDEDITER@nagol12344.me"
     }
   },
-
-
-  "content_scripts": [
-    {
-      "matches": ["*://*.undercards.net/*"],
-      "js": ["code.js"]
-    }
-
-  
-  ]
+  "background": {
+    "scripts": ["newcode.js"]
+  }
 
 }
 
