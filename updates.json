@@ -5,14 +5,18 @@
           {
             "version": "1.0",
             "update_link": "https://github.com/Nagol12344/cardediterforundercards/releases/download/1.0.0/card_editer_for_undercards-1.0-fx.xpi",
-            "update_hash": "sha256:ab924f9ea751e66257df69d9457e5b5323cdef97e83fcc26b607f486ea57f166"
+            "update_hash": "sha256:a344dcaa457853ee47ba756a315e3eaddb2647fee486310f82455962ffc7a3a5"
         },
           {
             "version": "2.0",
             "update_link": "https://github.com/Nagol12344/cardediterforundercards/releases/download/2.0/card_editer_for_undercards-2.0-fx.xpi",
-            "update_hash": "sha256:df3fcb44d689784385686cb3e0e14bee8beb4ce5786c70b0a36a2ca0cdf50836"
+            "update_hash": "sha256:3136b46e6aaf2746a9b614d635b888b3f3d0e3e06d433eafee4eccc820b91bb3"
+          },
+          {
+            "version": "2.1",
+            "update_link": "https://github.com/Nagol12344/cardediterforundercards/releases/download/2.1/card_editer_for_undercards-2.1-fx.xpi",
+            "update_hash": "sha256:bcb52aa83a3af4963bc4f99feafb0e388feafe69e30b8bd6780fd1978887a1fb"
           }
-          
         ]
       }
     }
