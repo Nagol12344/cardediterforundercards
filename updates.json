@@ -1,0 +1,19 @@
+{
+    "addons": {
+      "{abcd1234-1abc-1234-12ab-abcdef123456}": {
+        "updates": [
+          {
+            "version": "1.0",
+            "update_link": "https://github.com/Nagol12344/cardediterforundercards/releases/download/1.0.0/card_editer_for_undercards-1.0-fx.xpi",
+            "update_hash": "sha256:ab924f9ea751e66257df69d9457e5b5323cdef97e83fcc26b607f486ea57f166"
+        },
+          {
+            "version": "2.0",
+            "update_link": "https://github.com/Nagol12344/cardediterforundercards/releases/download/2.0/card_editer_for_undercards-2.0-fx.xpi",
+            "update_hash": "sha256:df3fcb44d689784385686cb3e0e14bee8beb4ce5786c70b0a36a2ca0cdf50836"
+          }
+          
+        ]
+      }
+    }
+  }

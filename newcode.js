@@ -32,7 +32,7 @@ function redirect(requestDetails) {
         return {
             redirectUrl: "https://undercards.net/images/cards/Cute_Dictator.png"
         };}
-    else if (requestDetails.url == "https://undercards.netimages/cards/Gift.png") {
+    else if (requestDetails.url == "https://undercards.net/images/cards/Gift.png") {
         return {
             redirectUrl: "https://undercards.net/images/cards/Your_Lucky_Day.png"
         };
